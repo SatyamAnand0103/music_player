@@ -1,0 +1,1153 @@
+body{
+    background-color:black
+}
+.mainbox{
+    background-color: #161616;
+    height: 92px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -14px;
+    
+
+
+}
+.icon_1 img{
+
+    position: absolute;
+    display: inline-block;
+    height: 52px;
+    width: 52px;
+    margin-left: 96px;
+    margin-top: 22px;
+    
+}
+#firstline{
+    font-size: 1.25rem;
+    display: inline-block;
+    margin-top: 34px;
+    margin-left: 156px;
+    color: beige;
+    font-family: 'Rajdhani', sans-serif;
+    position: absolute;
+    
+}
+
+
+
+
+#searching {
+    margin-left: 760px;
+    margin-top: 22px;
+    display: inline-block;
+    
+
+    
+}
+
+#searching img{
+    border: 1px solid grey;
+    height: 27px;
+    width: 25px;
+    padding-left: 12px;
+    padding-top: 4px;
+    margin-top: 2px;
+    border-bottom-left-radius: 24px;
+    border-top-left-radius: 24px;
+    padding-right: 12px;
+    margin-left: -30px;
+    padding-bottom: 4px;
+
+}
+
+#searching img:hover{
+cursor:pointer;
+background-color: rgb(37 40 59);
+border: rgb(37 40 59);
+    
+}
+
+
+#header input {
+    height: 36px;
+    width: 244px;
+    position: absolute;
+    padding-left: 25px;
+    font-size: 13px;
+    margin-top: 24px;
+    background-color: rgba(247,245,245,var(--tw-text-opacity));
+    border: 1px solid grey;
+    border-top-right-radius: 23px;
+    border-bottom-right-radius: 23px;
+
+}
+
+#header input:hover{
+background-color: rgb(37 40 59);
+color:grey;
+border: rgb(37 40 59);
+}
+
+
+#header div{
+    display: inline-block;
+    margin-left: -232px;
+    border: 2px solid black;
+    margin-top: -1px;
+    height: 50px;
+    width: 75px;
+    border-bottom-left-radius: 34px;
+    border-top-left-radius: 34px;
+}
+
+#header div p{
+    font-size: 24px;
+    margin-top: 16px;
+
+}
+.header2{
+    float: right;
+    margin-right: 4px;
+    height: 44px;
+    width: 468px;
+    margin-top: 32px;
+}
+
+.header2 #firstbox img{
+    position: absolute;
+    height: 21px;
+    width: 14px;
+    margin-top: 2px;
+    margin-left: 6px;
+}
+
+.header2 #firstbox img:hover{
+    cursor:pointer;
+    transition: 0.5s;
+    transform: scale(1.2); 
+
+
+}
+
+.header2 #firstbox p{
+
+    color:beige;
+    margin-top: 3px;
+    margin-left: 30px;
+    width: 145px;
+    position: absolute;
+    font-size: 17px;
+}
+
+    .header2 #firstbox p:hover{
+        cursor:pointer;
+        color:grey;
+    
+    } 
+.header2 #secondbox{
+    border: 2px solid grey;
+    margin-left: 204px;
+    color: rgb(99, 94, 94);
+    position: relative;
+    display: inline-block;
+    height: 44px;
+    margin-top: -10px;
+}
+
+.header2 #login img{
+    display: inline-block;
+    height: 21px;
+    width: 21px;
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 26px;
+
+
+}
+
+.header2 #login img:hover{
+    cursor:pointer;
+    transition: 0.5s;
+    transform: scale(1.2); 
+
+}
+
+
+.header2 #login p{
+    display: inline-block;
+    position: absolute;
+    margin-left: 56px;
+    margin-top: 5px;
+    color: beige;
+    font-size: 17px;
+}
+
+
+.header2 #login p:hover{
+    cursor:pointer;
+    color:grey;
+
+}
+ span #img1 img{
+    display: inline-block;
+    height: 20px;
+    width: 29px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 121px;
+ }
+
+ span #img1 img:hover{
+    cursor:pointer;
+ }
+ .items{
+
+    display: block;
+    height: 22px;
+    width: 950px;
+    margin-top: 22px;
+    margin-left: 90px;
+
+ }
+
+ .items p{
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 9px;
+    margin-top: 2px;
+    color: grey;
+    font-size: 16px;
+    font-family: 'Rajdhani', sans-serif;
+    }
+ 
+    .items p:hover{
+        transition: 2s;
+        text-decoration:underline;
+        text-decoration-color:grey;
+text-decoration-style: solid;
+
+
+
+    }
+    .popular1{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:-124px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .popular2{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:33px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .popular3{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:33px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .popular4{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:33px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .popular5{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:33px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .popular6{
+        border: 2px solid white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left:33px;
+    height: 282px;
+    width: 790px;
+    border-radius: 20px;
+        
+    }
+    .playlist{
+        
+        display: inline-block;
+        height:936px;
+        width: 346px;
+        margin-top: 48px;
+        margin-left: 102px; 
+        background-color: rgb(25 28 45);
+       
+    }
+    .container {
+    
+        margin-top: 48px;
+        height:936px;
+        width:  982px;
+        float: right;
+        margin-right: 73px;
+        background-color:  rgb(37 40 59);
+        
+    }
+    .container div#where  {
+        margin-top:-187px;
+        height: 466px;
+        width: 466px;
+        float: right;
+    } 
+
+    .container div#where img{
+       
+    margin-top: 41px;
+    height: 474px;
+    width: 466px;
+    float: right;
+
+    }
+
+    .container div#where img:hover{
+        transition: 0.5s; 
+        cursor:pointer;
+        opacity:0.5;
+    }
+    .playlist p{
+        color:white;
+        font-size: 20px;
+    margin: 15px 0px 0px 20px;
+    font-family: 'Rajdhani', sans-serif;
+  
+    }
+    
+  #redplay img
+{
+height: 31px;
+width: 34px;
+margin-top: 20px;
+}
+
+h6
+{
+
+    color: white;
+    margin-top: -26px;
+    margin-left: 68px;
+    font-size: 13px;
+    font-family: 'Rajdhani', sans-serif;
+
+}
+h6:hover{
+color:red;
+
+}
+
+   
+#redplay img:hover{
+
+    transform: scale(1.1);
+} 
+h2{
+    color: aliceblue;
+    margin-left: 159px;
+    margin-top: 77px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+}
+#last{
+
+    color:grey;
+    margin-left: 35px;
+    font-size: 13px;
+    font-weight:bold;
+}
+#last2{
+color:grey;
+    margin-left: 35px;
+    font-size: 13px;
+    font-weight:bold;
+}
+ #last:hover
+{
+    color:white;
+}
+#last2:hover{
+    color:white;
+}
+.addsongs p#stop img{
+    eight: 30px;
+    width: 30px;
+    margin-top: -57px;
+    margin-right: 17px;
+    float: right;
+
+}
+.audio {
+    border: 2px solid white;
+    height: 27px;
+    width: 512px;
+}
+.songthoughts{
+    
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    margin-top: 20px;
+    margin-left: 75px;
+
+}
+.songthoughts img{
+    height: 166px;
+    width: 166px;
+    margin-top: 0px;
+    border-radius: 14px;
+
+
+}
+
+.songthoughts img:hover{
+    cursor:pointer;
+}
+.first{
+    height: 56px;
+    margin: 5px;
+    display:flex;
+    align-items:center;
+
+}
+
+.first:hover
+{
+border:1px solid grey;
+ border-radius:15px;
+ cursor:pointer;
+}
+
+
+ #img1{
+    height: 38px;
+    width: 38px;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+#number1{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: unset;
+    margin-left: 8px;
+
+
+}
+#name1{
+    font-size: 11px; 
+    color: white;
+    font-weight: bold;
+    margin-top: -6px;
+    margin-left: 16px;
+}
+
+#name2_1{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -140px;
+}
+#stop1{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop2{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+#stop3{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop4{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop5{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop6{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop7{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+#stop8{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+
+#stop9{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+
+#stop10{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+
+
+
+#stop11{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+
+
+#stop12{
+    margin-top: 0px;
+    height: 38px;
+    width: 38px;
+    margin-left: auto;
+}
+
+
+
+#name6{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -140px;
+}
+
+#name2{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -44px;
+}
+
+#name3{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -85px;
+}
+
+#name4{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -109px;
+}
+
+
+#name5{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -111px;
+}
+
+
+#name6{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -59px;
+}
+
+
+#name7{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -60px;
+}
+
+
+#name8{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -145px;
+}
+
+
+
+#name9{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -35px;
+}
+
+
+
+#name10{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -36px;
+}
+ 
+
+
+#name11{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -73px;
+}
+
+
+
+#name12{
+    font-size: 11px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: -90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------------------------------------------*/
+
+
+#faded1{
+
+    display: inline-block;
+    height: 166px;
+    width: 166px;
+    margin-top: 20px;
+    margin-left: 34px;
+
+}
+#faded1 img{
+    height: 166px;
+    width: 166px;
+    margin-top: 0px;
+    border-radius: 22px;
+    border: 2px solid black;
+    
+}
+
+#faded1 img:hover{
+    cursor:pointer;
+}
+#contents{
+    margin-top: 20px;
+    width: 467px;
+    margin-left: 23px;
+    color: grey;
+    font-size:11px;
+    font-family: "Poppins", sans-serif;
+}
+.btns{
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: 114px;
+    
+}
+#btns1{
+    border:2px solid rgba(217,31,38,255);
+    margin-right: 46px;
+    width: 130px;
+    border-radius: 31px;
+    height: 30px;
+    color:white;
+    background-color: rgba(217,31,38,255);
+    font-size: 18px;
+letter-spacing: 1px;
+}
+
+#btns1:hover{
+    background-color: rgb(37 40 59);
+    color:rgba(217,31,38,255);;
+    font-size: 18px;
+    transition: .3s linear;
+    letter-spacing: 1px;
+}
+#btns2{
+    border:2px solid rgba(217,31,38,255);
+    background-color: rgb(37 40 59);
+    width: 130px;
+    border-radius: 31px;
+    height: 30px;
+    color:rgba(217,31,38,255);;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#btns2:hover{
+    background-color: rgba(217,31,38,255);;
+    color:white;
+    font-size: 18px;
+    transition: .3s linear;
+    letter-spacing: 1px;
+}
+.popularsongs{
+  
+    margin-top:30px;
+    height:222px;
+    width:912px;;
+}
+.popularsongs p{
+    font-size: 21px;
+    margin-top: 15px;
+    color: lightgrey;
+    margin-left: 40px;
+    letter-spacing: 1px;
+}
+.scroll{
+    margin-top:6px;
+margin-left :40px;
+display:flex;
+overflow-x:auto;
+}
+
+.popularsongs .scroll h4{
+
+
+    margin-left: 0px;
+    color: white;
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 0px;
+    width: 139px;
+    
+    }
+
+.scroll h5{
+    
+    margin-top: -18px;
+    margin-left: -1px;
+    color: grey;
+    width: 139px;
+    font-size: 13px;
+    font-weight: normal;
+
+
+}
+#artistname1{
+    text-align: center;
+}
+
+.scroll img{
+
+    height:140px;
+    width:140px;
+    margin-right:8px;
+}
+
+.scroll img:hover{
+    cursor: pointer;
+}
+
+#stopplaybtn{
+
+    height: 47px;
+    width: 47px;
+    margin-top: 46px;
+    position: absolute;
+    margin-left: -102px;
+    opacity:0;
+}
+
+h4#song2{
+    
+    margin-left: -2px;
+    width: 142px;
+    text-align: center;
+
+}
+h5#song2_2{
+    
+    margin-left: -2px;
+    padding-left: 35px;
+    width: 107px;
+}
+
+h4#song3{
+    
+    margin-left: 0px;
+    padding-left: 40px;
+    width: 100px;
+
+}
+h5#song3_3{
+    
+    padding-left: 29px;
+    margin-left: 0px;
+    width: 111px;
+
+}
+
+h4#song4{
+    margin-left: 0px;
+    padding-left: 50px;
+    width: 90px;
+
+}
+h5#song4_4{
+    
+    margin-left: 0px;
+    text-align: center;
+    width: 140px;
+
+}
+
+h4#song5{
+    
+    margin-left: -1px;
+    width: 141px;
+    text-align: center;
+
+
+}
+h5#song5_5{
+    
+    margin-left: -1px;
+    width: 141px;
+    text-align: center;
+
+}
+
+h4#song6{
+    
+    margin-left: 0px;
+    text-align: center;
+    width: 140px;
+
+}
+h5#song6_6{
+    text-align: center;
+    width: 140px;
+    margin-left: 0px;
+}
+
+h4#song7{
+    
+    margin-left: 0px;
+    padding-left: 36px;
+    width: 102px;
+}
+h5#song7_7{
+    
+    margin-left: 0px;
+    padding-left: 30px;
+    width: 108px;
+
+}
+h4#song8{
+    
+    margin-left: 0px;
+    width: 140px;
+    text-align: center;
+
+}
+h5#song8_8{
+    
+    margin-left: 0px;
+    text-align: center;
+    width: 140px;
+}
+
+
+.scroll img:hover{
+
+}
+
+.scrollbar{
+    height: 589px;
+    overflow: auto;
+}
+.scroll h4,h5{
+    background-color:rgba(105, 105,170,.1);
+
+}
+
+
+.scroll h4,h5:hover{
+    cursor:pointer;
+
+}
+
+#firstincolo{
+    width: 122px;
+    padding-left: 16px;
+
+}
+
+
+.artists{
+    color:aliceblue;
+    margin-top: 80px;
+    padding-left: 98px;
+    width: 152px;
+    font-size: 22px;
+    font-family:'Rajdhani', sans-serif;
+}
+.artistname{
+    
+    height: 110px;
+    margin-top: -1px;
+
+}
+
+.artistname p img{
+    height: 80px;
+    width: 84px;
+    border-radius: 50px;
+    margin-right: 0px;
+    margin-left: 103px;
+}
+.artistname p img:hover{
+    cursor: pointer;
+    transition:0.7s;
+    transform:scale(1.2);
+}
+.lstbox{
+    border:1px solid grey;
+    height: 72px;
+    margin-left: 102px;
+    margin-right: 73px;
+    background-color:#051c33;
+    display: flex;
+    /*#051c33;*/
+
+}
+
+.mfirst{
+    border: 1px solid red;
+    height: 30px;
+    width: 3px;
+    background-color: red;
+    margin-right: 1px;
+    animation: waves 1s linear infinite;
+    border-radius: 12px;
+    transform-origin: bottom;
+}
+
+#masterplay{
+    
+    display: flex;
+    width: 24px;
+    margin-top: 5px;
+    height: 31px;
+    margin-left: 37px;
+    padding-left: 3px;
+    padding-top: 16px;
+ 
+}
+@keyframes waves{
+
+    0%{
+        transform: scale(0);
+    }
+    
+    50%{
+        transform: scale(0.5);
+    }
+    
+    100%{
+        transform: scale(0);
+    }
+}
+.waves:nth-child(2){
+    animation-delay:0.2s;
+}
+
+.waves:nth-child(3){
+    animation-delay:0.3s;
+}
+
+.masterplayimg{
+    display:flex;
+}
+ 
+.masterplayimg img{
+    height: 45px;
+    width: 45px;
+    margin-left: 11px;
+    margin-top: 21px;
+}
+
+ 
+.masterplayimg p{
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    margin-top: 29px;
+    margin-left: 5px;
+    height: 29px;
+    width: 142px;
+    text-align: center;
+}
+ h5#lastname{
+
+    margin-top: 47px;
+    margin-left: -134px;
+    font-size: 11px;
+    color: grey;
+
+}
+.songsicon{
+    display: inline-block;
+    height: 35px;
+    width: 190px;
+    margin-top: 24px;
+    margin-left: 74px;
+}
+.songsicon img{
+    margin-left: 14px;
+    height: 35px;
+    width: 35px;
+}
+
+.songsicon img:hover{
+    cursor:pointer
+}
+
+#currentstart{
+
+    color: white;
+    display: inline-block;
+    margin-top: 33px;
+    margin-left: -10px;
+}
+
+#currentend{
+
+    color: white;
+    display: inline-block;
+    margin-top: 33px;
+    margin-left: 18px;
+}
+#bar1{
+    margin-top: 42px;
+    margin-left: 17px;
+    width: 373px;
+    height:2px;
+    cursor: pointer;
+}
+
+
+#bar1:hover{
+    cursor:pointer;
+
+}
+#volume img{
+    height: 25px;
+    width: 25px;
+    margin-top: 30px;
+    margin-left: 71px;
+
+}
+#bar2{
+    margin-top: 26px;
+    margin-left: 20px;
+    height: 2px;
+}
+
+#bar2:hover{
+    cursor:pointer;
+
+}
+#volume img:hover{
+    transition:0.5s;
+    transform: scale(1.2);
+}
