@@ -12,7 +12,7 @@ function playAudio() {
 
   }
 
-
+// javascript code
 
   var isPlaying = false; // audio is NOT playing
   
