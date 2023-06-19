@@ -45,8 +45,8 @@ function selectThisSong(selectedSong){
   if(onclick===true){
   var a = document.getElementById(selectedSong);
   a.style.background = "rgb(37 50 59)";
-   a.style['border-radius'] = "20px";
-   a.style.border = "0px solid white";
+   a.style['border-radius'] = "0px";
+   a.style.border = "0px sol white";
   onclick=false;
   console.log();
   }
@@ -83,3 +83,11 @@ else{
 
 
   }
+
+//--------------------------------------------------------------------------
+  function change_playlist(){
+    alert("Yup! Playlist Changed");
+
+  }
+
+  //------------------------------------------------------------------------

@@ -436,8 +436,8 @@ color:grey;
 
 .first:hover
 {
-border:1px solid grey;
- border-radius:15px;
+background-color: rgb(37 40 59);;
+border:1px solid white;
  cursor:pointer;
 }
 
@@ -1151,3 +1151,25 @@ h5#song8_8{
     transition:0.5s;
     transform: scale(1.2);
 }
+
+#callmebtn{
+     height: 32px;
+    width: 79px;
+    display: block;
+    margin: auto;
+    color: white;
+    background-color: rgb(37 40 59);
+    border-radius: 20px;
+    margin-top: 25px;
+    font-family: 'Rajdhani', sans-serif;
+    margin-left: 13px;
+    font-size: 10px;
+    color:seashell;
+}
+
+#callmebtn:hover{
+background-color: rgb(25 28 45);
+
+}
+
+
