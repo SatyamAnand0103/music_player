@@ -76,7 +76,7 @@ if( is_Playing===true){ //audio is playing at this time
    pauseAudio();
 }
 else{
-  document.getElementById(selected_song).src = "play1.png"
+  document.getElementById(selected_song).src = "assets/images/play1.png"
   is_Playing = true;
   playAudio();
 }
