@@ -86,7 +86,7 @@ else{
 
 //--------------------------------------------------------------------------
   function change_playlist(){
-    alert("Yup! Playlist Changed");
+    document.getElementById("my_Audio").src="assets/audio/rozana.mp3";
 
   }
 
